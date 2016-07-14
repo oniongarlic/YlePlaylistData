@@ -5,7 +5,8 @@ Playlist data exctrated from X3M web site, https://svenska.yle.fi/spellista/yle-
 Do something fun with it.
 
 * artists.csv contains a summary of artists
+* programs.csv contains playout programs
 * playlist.csv is the full playlist archive
 
 First entry is from 2013-06-07
-Last update: 2016-07-11
+Last update: 2016-07-14
