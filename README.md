@@ -6,9 +6,9 @@ Note that upstream is missing data for some days so the data is not 100%.
 
 Do something fun with it.
 
-* artists.csv contains a summary of artists
+* artists.csv contains a list of unique artists, with automatically generated list of related artists
 * programs.csv contains playout programs
 * playlist.csv is the full playlist archive
 
 First entry is from 2013-06-07
-Last update: 2016-07-15
+Last update: 2016-07-28
